@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning <img align="center" alt="angular icon" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />(Angular)
 - 💬 Ask me about anything
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/raphael-satomi">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=raphael-satomi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-satomi&layout=compact&langs_count=7&theme=tokyonight"/>
