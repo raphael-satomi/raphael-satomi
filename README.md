@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Shopinfo
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning <img align="center" alt="css icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 - 💬 Ask me about anything
 
 <div align="center">
