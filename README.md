@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on Shopinfo
 - 🌱 I’m currently learning <img align="center" alt="angular icon" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />(Angular)
-- 💬 Ask me about anything
+<br/>
+<!-- - 💬 Ask me about anything -->
 
 <div align="left">
   <a href="https://github.com/raphael-satomi">
