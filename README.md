@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Shopinfo
-- 🌱 I’m currently learning Unity
+- 🌱 I’m currently learning Wordpress
 <br/>
 <!-- - 💬 Ask me about anything -->
 
