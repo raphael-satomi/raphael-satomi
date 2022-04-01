@@ -6,8 +6,8 @@
 <!-- - 💬 Ask me about anything -->
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raphael-satomi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-satomi&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=raphael-satomi&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphael-satomi&layout=compact&langs_count=7&theme=great-gatsby"/>
   <img height="150" align="right" src="https://c.tenor.com/cbT2RJmQKIIAAAAC/one-piece-luffy.gif"/>
 </div>
 <div style="display: inline_block"><br>
