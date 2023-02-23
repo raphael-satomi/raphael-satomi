@@ -17,7 +17,7 @@
   <img align="center" alt="typescript icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="jquery icon" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
   <img align="center" alt="react icon" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-</div>
-<div align="right">
-  <img height="150" align="right" src="https://i.pinimg.com/originals/89/2e/f5/892ef5dd187b40c8606eb8d9ff3ab5b9.gif"/>
+</div><br>
+<div align="center">
+  <img height="150" align="center" src="https://i.pinimg.com/originals/89/2e/f5/892ef5dd187b40c8606eb8d9ff3ab5b9.gif"/>
 </div>
